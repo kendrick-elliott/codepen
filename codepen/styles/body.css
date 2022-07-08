@@ -1,0 +1,82 @@
+.codepen-body {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    background-color: gray;
+    height: 699px;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+.p1 p{
+    font-size: 2.5em;
+    margin-top: 75px;
+    width: 550px;
+    
+    
+}
+
+.p1 h1 {
+    font-weight: lighter;
+}
+
+.p1 i {
+    color: Gold;
+    margin-left: 10px;
+}
+
+
+
+.p1 span {
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.left-column{
+    margin-left: 50px;
+    
+
+}
+
+.p2 {
+    font-size: 2em;
+    margin-top: 75px;
+    width: 700px;
+}
+
+.body-btns {
+    margin-top: 100px;
+}
+
+.sign-up {
+    margin-right: 20px;
+    background-color:aquamarine;
+    border: none;
+    border-radius: .5rem;
+}
+
+.Learn-More {
+    background-color: black;
+    color: #fff;
+    border-radius: .5rem;
+}
+
+.right-column {
+    margin-left: 310px;
+    margin-top: 45px
+}
+
+.codepen-img img {
+    width: 650px;
+    box-shadow: -23px -23px 65px 10px rgba(0,0,0,0.79);
+-webkit-box-shadow: -23px -23px 65px 10px rgba(0,0,0,0.79);
+-moz-box-shadow: -23px -23px 65px 10px rgba(0,0,0,0.79);
+}
+
+.projects {
+    font-size: 2em;
+    width: 400px;
+}
+
+.projects span {
+    color:aqua;
+}

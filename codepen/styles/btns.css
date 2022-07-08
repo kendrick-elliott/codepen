@@ -1,0 +1,33 @@
+.right-buttons{
+    display: flex;
+    margin-left: 455px;
+    margin-top: 10px;
+}
+
+.header {
+    display: flex;
+}
+
+.btns button {
+    background-color: gray;
+    color: white;
+    height: 75px;
+    width:150px;
+    font-size: .60em;
+    border-radius: .6rem;
+}
+.btns span {
+    color: aquamarine;
+}
+
+.search i {
+    color: grey;
+    padding-top: 20px;
+}
+
+.btns{
+    padding: 25px;
+    font-size: 2em;
+}
+
+
